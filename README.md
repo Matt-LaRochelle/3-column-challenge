@@ -44,6 +44,7 @@ Users should be able to:
 - Desktop-first workflow
 - Google Fonts
 - Custom icons
+- Total time: 2 hours
 
 ### What I learned
 
