@@ -93,3 +93,28 @@ footer {
         margin: 40px auto 15px;
     }
 }
+
+@media screen and (max-width: 950px) {
+    main {
+        margin: 100px auto 20px;
+        display: grid;
+        grid-template-columns: repeat(1, 307px);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+    .grid-item {
+        display: block;
+        width: 327px;
+        height: 442px;
+        padding: 48px;
+        background-color: hsl(31, 77%, 52%);
+        position: relative;
+    }
+    .grid-item p {
+        width: 231px;
+    }
+    footer {
+        position: static;
+        margin: 20px auto 15px;
+    }
+}
