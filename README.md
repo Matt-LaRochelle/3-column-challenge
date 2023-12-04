@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://matt-larochelle.github.io/3-column-challenge/)
+- Live Site URL: [Solution](https://matt-larochelle.github.io/3-column-challenge/)
 
 ## My process
 
